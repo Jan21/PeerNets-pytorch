@@ -3,7 +3,7 @@
 A pytorch implementation of [PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks](https://arxiv.org/abs/1806.00088)
 
 **Keywords**
-
+7deep course
 Adversarial Attack, Adversarial Example, Graph Convolutional Network(GCN)
 
 **Tutorails**
